@@ -44,7 +44,7 @@ html{
 
 body{
     font-family: 'Roboto Slab', serif;
-    background: var(--color-bg-3) url(./assets/bg-texture.png);
+    background: var(--color-bg-3) url(./images/bg-texture.png);
     color: var(--color-light);
     line-height: 1.7;
 }
